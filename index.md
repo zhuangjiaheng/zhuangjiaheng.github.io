@@ -16,4 +16,5 @@ I am working for master degree at Tsinghua SIGS, where I work on intelligent tra
 ## Project
 
 ### Joint Entity and Relation Extraction
-You can see more detail at: [Joint Entity and Relation Extraction](http://explore2.diggg.cn/app01/home)
+We propose a two-layer sequence model to identify entity and relation respectively, which decreases the number of tags. You can see more detail at: [Joint Entity and Relation Extraction](http://explore2.diggg.cn/app01/home)
+![image]()
