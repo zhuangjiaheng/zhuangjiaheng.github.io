@@ -8,3 +8,6 @@ layout: homepage
 
 ## Research Interest
 
+## Project
+
+[Joint Entity and Relation Extraction](http://explore2.diggg.cn/app01/home)
